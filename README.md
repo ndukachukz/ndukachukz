@@ -1,5 +1,24 @@
 # 💫 About Me:
-# Daniel Nduka<br>## Full-Stack Web & Mobile Developer<br><br>Results-driven full-stack web/mobile developer with 4+ years of experience crafting responsive and intuitive applications. Passionate about clean code, optimized performance, and creating engaging user experiences.<br><br>### 🔭 I'm currently working on<br>- MedAide AI: An AI-powered medical triage and telemedicine system (TypeScript, MongoDB, Next.js)<br>- Improving core web vitals and SEO optimization techniques<br>- Exploring serverless architecture and microservices<br><br>### 🌱 I'm currently learning<br>- Advanced React patterns and performance optimization<br>- Machine Learning integration in web applications<br>- GraphQL and Apollo for efficient data fetching<br><br>### 👯 I'm looking to collaborate on<br>- Open-source projects related to healthcare tech or fintech<br>- Innovative mobile apps using React Native<br>- Projects focused on improving web accessibility<br><br>### 🤝 I'm looking for help with<br>- Scaling applications for high traffic<br>- Implementing advanced security measures in full-stack applications<br>- Best practices for cross-platform app development<br><br>### 💬 Ask me about<br>- Full-stack JavaScript/TypeScript development<br>- React and React Native best practices<br>- SEO optimization and core web vitals<br>- Test-driven development and clean code principles<br><br>### ⚡ Fun fact<br>I once optimized a web application's load time from 8 seconds to under 2 seconds, leading to a 40% increase in user engagement!<br><br>## Technical Skills<br>- Languages: JavaScript, TypeScript, PHP<br>- Frontend: React, React Native, Next.js, TailwindCSS<br>- Backend: Node.js, NestJS, Express, Symfony<br>- Databases: MongoDB, PostgreSQL, Redis<br>- Cloud: AWS, Google Firebase, Heroku<br>- Tools: Docker, Git, Lighthouse<br><br>## Featured Projects<br>- **Vokepost.com**: A dynamic web app for tracking and analyzing music streaming data<br>- **Zelia Microfinance Mobile App**: High-performance native iOS and Android application<br>- **Affilbase Sales Monitoring Platform**: Secure full-stack application for business owners<br><br>## Let's Connect!<br>Feel free to reach out for collaborations or just a chat about tech!<br><br>📧 Email: ndukachukwuemeka57@gmail.com<br>📱 Phone: +2348110436855<br>📍 Location: Lekki, Lagos, Nigeria
+# Daniel Nduka
+## Full-Stack Web & Mobile Developer<br><br>Results-driven full-stack web/mobile developer with 4+ years of experience crafting responsive and intuitive applications. Passionate about clean code, optimized performance, and creating engaging user experiences.
+
+### 🔭 I'm currently working on<br>- MedAide AI: An AI-powered medical triage and telemedicine system (TypeScript, MongoDB, Next.js, React Native)<br>- Improving core web vitals and SEO optimization techniques<br>- Exploring serverless architecture and microservices
+
+### 🌱 I'm currently learning<br>- Advanced React patterns and performance optimization<br>- Machine Learning integration in web applications<br>- GraphQL and Apollo for efficient data fetching
+
+### 👯 I'm looking to collaborate on<br>- Open-source projects related to healthcare tech or fintech<br>- Innovative mobile apps using React Native<br>- Projects focused on improving web accessibility
+
+### 🤝 I'm looking for help with<br>- Scaling applications for high traffic<br>- Implementing advanced security measures in full-stack applications<br>- Best practices for cross-platform app development
+
+### 💬 Ask me about<br>- Full-stack JavaScript/TypeScript development<br>- React and React Native best practices<br>- SEO optimization and core web vitals<br>- Test-driven development and clean code principles
+
+### ⚡ Fun fact<br>I once optimized a web application's load time from 8 seconds to under 2 seconds, leading to a 40% increase in user engagement!
+
+## Technical Skills<br>- Languages: JavaScript, TypeScript, PHP<br>- Frontend: React, React Native, Next.js, TailwindCSS<br>- Backend: Node.js, NestJS, Express, Symfony<br>- Databases: MongoDB, PostgreSQL, Redis<br>- Cloud: AWS, Google Firebase, Heroku<br>- Tools: Docker, Git, Lighthouse
+
+## Featured Projects<br>- **Vokepost.com**: A dynamic web app for tracking and analyzing music streaming data<br>- **Zelia Microfinance Mobile App**: High-performance native iOS and Android application<br>- **Affilbase Sales Monitoring Platform**: Secure full-stack application for business owners
+
+## Let's Connect!<br>Feel free to reach out for collaborations or just a chat about tech!<br><br>📧 Email: ndukachukwuemeka57@gmail.com<br>📱 Phone: +2348110436855<br>📍 Location: Lekki, Lagos, Nigeria
 
 
 ## 🌐 Socials:
