@@ -4,7 +4,7 @@
 
 ### 🔭 I'm currently working on<br>- MedAide AI: An AI-powered medical triage and telemedicine system (TypeScript, MongoDB, Next.js, React Native)<br>- Improving core web vitals and SEO optimization techniques<br>- Exploring serverless architecture and microservices
 
-### 🌱 I'm currently learning<br>- Advanced React patterns and performance optimization<br>- Machine Learning integration in web applications<br>- GraphQL and Apollo for efficient data fetching
+### 🌱 I'm currently learning<br>- Advanced React & React Native patterns and performance optimization<br>- Machine Learning integration in web applications<br>- GraphQL and Apollo for efficient data fetching<br>- Blockchain & Web3 development
 
 ### 👯 I'm looking to collaborate on<br>- Open-source projects related to healthcare tech or fintech<br>- Innovative mobile apps using React Native<br>- Projects focused on improving web accessibility
 
